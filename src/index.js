@@ -16,7 +16,7 @@ import Footer from './components/Footer';
 
 function App(){
     return (
-        <Router basename="/react-portfolio" >
+        <Router>
             <div>
                 <Navbar/>
                 <div className="main">
