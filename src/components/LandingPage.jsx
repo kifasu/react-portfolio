@@ -44,7 +44,7 @@ function LandingPage() {
             </div>
             <div classname="name-sub">
                 <h1><div className="name">aqmal mansor</div></h1>
-                <div className="lp-sub"><h4>coffee connoisseur</h4></div>
+                <div className="lp-sub"><p>coffee connoisseur</p></div>
             </div>
         </div>
         </motion.div>
