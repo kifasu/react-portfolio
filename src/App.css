@@ -214,7 +214,7 @@ nav {
     position: fixed;
     min-height: 2vh;
     width: 100%;
-    opacity: 0.6;
+    opacity: 1;
     font-size: 12px;
     background-color: black;
 }
@@ -237,7 +237,7 @@ nav {
     padding: 3em 3em 3em 3em;
     height: 77%;
     width: 50%;
-    opacity: 0.95;
+    opacity: 1;
     text-align: justify;
     font-size: 1.rem;
     overflow-y:scroll;
@@ -268,7 +268,7 @@ nav {
    background-color: black;
    height: 77%;
    width: 50%;
-   opacity: 0.95;
+   opacity: 1;
    text-align: justify;
    font-size: 1.1rem;
 }
@@ -316,7 +316,7 @@ img {
 
 .lp-sub {
     margin-top: 7px;
-    opacity: 0.5;
+    opacity: 1;
     float:right;
 }
 
