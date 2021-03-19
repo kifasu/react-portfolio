@@ -243,7 +243,10 @@ nav {
     overflow-y:scroll;
     scrollbar-width: none;
     -ms-overflow-style: none;
-    scrollbar-color: black grey;
+}
+
+.about::-webkit-scrollbar{
+    display:none;
 }
 
 .abt-content{
@@ -321,7 +324,9 @@ img {
 }
 
 
-
+.card-link-title:hover{
+    font-size: 1.1em;
+}
 
 
 @media screen and (max-width:960px){
