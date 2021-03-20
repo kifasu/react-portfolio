@@ -249,6 +249,10 @@ nav {
     display:none;
 }
 
+.contact::-webkit-scrollbar{
+    display:none;
+}
+
 .abt-content{
     padding-top:20px;
 }
@@ -274,6 +278,9 @@ nav {
    opacity: 1;
    text-align: justify;
    font-size: 1.1rem;
+   overflow-y:scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 
 .ctc-line,.about-line,.s-line {
